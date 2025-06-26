@@ -29,8 +29,6 @@ An interactive retail performance dashboard built in **Power BI** to provide bus
 - Scale operations in high-profit regions
 - Improve return management policies
 
----
 
-📌 View dashboard screenshots in `/assets`  
-📖 Read full case study on [Medium](#)  
-🔗 Connect on [LinkedIn](#)
+
+
